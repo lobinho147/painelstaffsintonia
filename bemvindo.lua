@@ -1,7 +1,6 @@
 -- Tiki Menu Loader Simplificado
 local Links = {
     "https://raw.githubusercontent.com/kx4-dev/painelstaffsintonia/refs/heads/main/Tags%20menu.lua",
-    "https://raw.githubusercontent.com/kx4-dev/painelstaffsintonia/refs/heads/main/painel.lua",
 }
 
 local KEY_TEXT = "permkey789"
